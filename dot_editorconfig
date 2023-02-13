@@ -1,0 +1,30 @@
+root = true
+
+[*]
+charset = utf-8
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.html]
+indent_size = 2
+
+[.css]
+indent_size = 4
+
+[*.{js,ts}]
+indent_size = 2
+
+[package.json]
+indent_size = 2
+
+[*.{kt,kts}]
+indent_style = space
+indent_size = 4
+
+[*.java]
+indent_style = space
+indent_size = 4
+
