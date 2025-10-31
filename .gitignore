@@ -1,0 +1,18 @@
+# Biztonsági okokból NE töltsd fel ezt a fájlt!
+.env
+
+# Cache és állapotfájlok
+.cache/
+.local/share/
+.local/state/
+.npm/
+.bash_history
+
+# Ideiglenes és letöltött fájlok
+Downloads/
+Documents/
+Videos/
+Music/
+Pictures/
+*.swp
+*~
